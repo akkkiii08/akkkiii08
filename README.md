@@ -1,9 +1,15 @@
 <!-- README.md for akkkiii08 -->
+<!-- README.md for akkkiii08 -->
+
 <h1 align="center">Hi 👋, I'm Akshay Gupta</h1>
 <h3 align="center">🚀 Tech Explorer | ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akkkiii08&label=Profile%20views&color=0e75b6&style=flat" alt="akkkiii08" />
 </p>
 
 ---
@@ -40,7 +46,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 |--------|-------------|------|
 | 🚗 **Smart Transport Insights** | Visualizes MHT-CET seat trends | Python, Pandas, Streamlit |
 | 📊 **Salary Predictor** | ML-based salary prediction system | Scikit-learn |
-| 🧑‍🌾 **Travel Planner AI** |A travel planning application that uses Google's Gemini AI to generate personalized travel itineraries with flight options.| Python, APIs, ML libraries, HTML,CSS|
+| 🧑‍🌾 **Sarathi** | Platform for contract farming agreements | MERN Stack |
 | 🎥 **Netflix Clone** | Clone with Firebase auth | React.js, Firebase |
 
 👉 [See All Projects](https://github.com/akkkiii08?tab=repositories)
@@ -49,8 +55,8 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaygupta18/)
-- 📧 [E-mail](akshaygupta4918@gmail.com)*
+- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 akshay.yourmail@example.com *(replace with real email)*
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
@@ -60,6 +66,14 @@ I'm a final-year engineering student passionate about solving real-world problem
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akkkiii08&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkkiii08&layout=compact&theme=radical" height="180px" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akkkiii08&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -74,7 +88,8 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 ### 🛠️ Keep Exploring, Keep Building!
 
-> _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Györgyi                                                                    
+> _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Györgyi
+
 > _"Work smart and make the things happen"_ - Akshay Gupta (Engineering Student)
 
 
