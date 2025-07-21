@@ -74,7 +74,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 ### 🛠️ Keep Exploring, Keep Building!
 
-> _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Györgyi
+> _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Györgyi                                                                    
 > _"Work smart and make the things happen"_ - Akshay Gupta (Engineering Student)
 
 
