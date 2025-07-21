@@ -50,7 +50,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshaygupta18/)
-- 📧 [E-mail]-akshaygupta4918@gmail.com*
+- 📧 [E-mail](akshaygupta4918@gmail.com)*
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
@@ -75,6 +75,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 ### 🛠️ Keep Exploring, Keep Building!
 
 > _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Györgyi
+> _"Work smart and make the things happen"_ - Akshay Gupta (Engineering Student)
 
 
 
