@@ -56,7 +56,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 akshay.yourmail@example.com *(replace with real email)*
+- 📧 [Email](akshaygupta4918@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
