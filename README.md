@@ -44,9 +44,8 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚗 **Smart Transport Insights** | Visualizes MHT-CET seat trends | Python, Pandas, Streamlit |
 | 📊 **Salary Predictor** | ML-based salary prediction system | Scikit-learn |
-| 🧑‍🌾 **Sarathi** | Platform for contract farming agreements | MERN Stack |
+| 🧑‍🌾 **Travel Planner AI** | A travel planning application that uses Google's Gemini AI to generate personalized travel itineraries with flight options.|Python, APIs, HTML,CSS |
 | 🎥 **Netflix Clone** | Clone with Firebase auth | React.js, Firebase |
 
 👉 [See All Projects](https://github.com/akkkiii08?tab=repositories)
