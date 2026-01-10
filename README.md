@@ -31,15 +31,6 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 ---
 
-### 🚀 Current Highlights
-
-- 🔨 Building: `Sarathi` – Full-stack contract farming platform with live chat
-- 🤖 Exploring: AI Budget Coach – a personal finance tool with OpenAI + LangChain
-- 🎓 Learning: Docker, Advanced backend deployment
-- 📊 Hobby Projects: Dashboard for MHT-CET seat prediction using Streamlit
-
----
-
 ### 🌟 Featured Projects
 
 | Project | Description | Tech |
@@ -54,7 +45,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaygupta18/)
 - 📧 [Email](akshaygupta4918@gmail.com)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
@@ -81,8 +72,7 @@ I'm a final-year engineering student passionate about solving real-world problem
 
 - 🌱 I believe in **tech for sustainable growth** (aligned with UN SDGs)
 - ⚡ Fun fact: I can debug better at 2am than 2pm
-- 🧠 Goal 2025: Launch 5+ fully deployed products used by real users
-
+  
 ---
 
 ### 🛠️ Keep Exploring, Keep Building!
