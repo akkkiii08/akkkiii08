@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year engineering student passionate about solving real-world problems using code. I love exploring the intersections of **Machine Learning**, **Web Development**, and **AI for Good**. I'm currently working on meaningful projects that blend technology with societal impact.
+I'm a recent engineering graduate passionate about solving real-world problems using code. I love exploring the intersections of **Machine Learning**, **Web Development**, and **AI for Good**. I'm currently working on meaningful projects that blend technology with societal impact.
 
 ---
 
